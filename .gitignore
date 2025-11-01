@@ -1,0 +1,19 @@
+# Rust build output
+/target
+**/*.rs.bk
+
+# Logs
+# Rust build output
+/target
+**/*.rs.bk
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+*.log
+
+# VSCode
+.vscode/
+/target
